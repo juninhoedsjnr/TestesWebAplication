@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="MasterChamadaAPi.SiteMaster" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" /></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header class="navbar navbar-expand-lg navbar-dark bg-primary">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="/">Sistema</a>
+                
+                <!-- Menu principal -->
+                <ul id="menuPrincipal" runat="server" class="navbar-nav me-auto">
+                    <!-- Itens serão preenchidos dinamicamente -->
+                </ul>
+                
+                <!-- Área do usuário -->
+                <div class="navbar-text">
+                    <span id="lblUsuario" runat="server">Usuário</span>
+                    <span id="spanVersao" runat="server" class="version-badge"></span>
+                </div>
+            </div>
+        </header>
+
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+    </form>
+</body>
+</html>

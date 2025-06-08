@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\02 - ProjetosDif\\API\\ColecionaatorAPI\\TesteMenu\\",
+  "WorkspaceRootPath": "C:\\01 - Projetos\\Git\\TesteMenu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D21E57D-F58A-4CEC-8765-962514059553}|TesteMenu\\TesteMenu.csproj|c:\\02 - projetosdif\\api\\colecionaatorapi\\testemenu\\testemenu\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D21E57D-F58A-4CEC-8765-962514059553}|TesteMenu\\TesteMenu.csproj|solutionrelative:testemenu\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A2B7DF8-E86C-4B2D-BAA5-C361496AC0EC}|UnificarMenuDinamicoEApi\\UnificarMenuDinamicoEApi.csproj|c:\\01 - projetos\\git\\testemenu\\unificarmenudinamicoeapi\\tipofranquiado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5A2B7DF8-E86C-4B2D-BAA5-C361496AC0EC}|UnificarMenuDinamicoEApi\\UnificarMenuDinamicoEApi.csproj|solutionrelative:unificarmenudinamicoeapi\\tipofranquiado.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D21E57D-F58A-4CEC-8765-962514059553}|TesteMenu\\TesteMenu.csproj|C:\\02 - ProjetosDif\\API\\ColecionaatorAPI\\TesteMenu\\testemenu\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{7D21E57D-F58A-4CEC-8765-962514059553}|TesteMenu\\TesteMenu.csproj|solutionrelative:testemenu\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D21E57D-F58A-4CEC-8765-962514059553}|TesteMenu\\TesteMenu.csproj|C:\\02 - ProjetosDif\\API\\ColecionaatorAPI\\TesteMenu\\testemenu\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D21E57D-F58A-4CEC-8765-962514059553}|TesteMenu\\TesteMenu.csproj|solutionrelative:testemenu\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D21E57D-F58A-4CEC-8765-962514059553}|TesteMenu\\TesteMenu.csproj|C:\\02 - ProjetosDif\\API\\ColecionaatorAPI\\TesteMenu\\testemenu\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{7D21E57D-F58A-4CEC-8765-962514059553}|TesteMenu\\TesteMenu.csproj|solutionrelative:testemenu\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D21E57D-F58A-4CEC-8765-962514059553}|TesteMenu\\TesteMenu.csproj|C:\\02 - ProjetosDif\\API\\ColecionaatorAPI\\TesteMenu\\testemenu\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7D21E57D-F58A-4CEC-8765-962514059553}|TesteMenu\\TesteMenu.csproj|solutionrelative:testemenu\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{5A2B7DF8-E86C-4B2D-BAA5-C361496AC0EC}|UnificarMenuDinamicoEApi\\UnificarMenuDinamicoEApi.csproj|c:\\01 - projetos\\git\\testemenu\\unificarmenudinamicoeapi\\tipofranquia.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5A2B7DF8-E86C-4B2D-BAA5-C361496AC0EC}|UnificarMenuDinamicoEApi\\UnificarMenuDinamicoEApi.csproj|solutionrelative:unificarmenudinamicoeapi\\tipofranquia.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApiService.cs",
-              "DocumentMoniker": "C:\\02 - ProjetosDif\\API\\ColecionaatorAPI\\TesteMenu\\TesteMenu\\ApiService.cs",
-              "RelativeDocumentMoniker": "TesteMenu\\ApiService.cs",
-              "ToolTip": "C:\\02 - ProjetosDif\\API\\ColecionaatorAPI\\TesteMenu\\TesteMenu\\ApiService.cs",
-              "RelativeToolTip": "TesteMenu\\ApiService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T01:50:26.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\02 - ProjetosDif\\API\\ColecionaatorAPI\\TesteMenu\\TesteMenu\\Web.config",
-              "RelativeDocumentMoniker": "TesteMenu\\Web.config",
-              "ToolTip": "C:\\02 - ProjetosDif\\API\\ColecionaatorAPI\\TesteMenu\\TesteMenu\\Web.config",
-              "RelativeToolTip": "TesteMenu\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-06-08T01:36:54.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\02 - ProjetosDif\\API\\ColecionaatorAPI\\TesteMenu\\TesteMenu\\Default.aspx",
-              "RelativeDocumentMoniker": "TesteMenu\\Default.aspx",
-              "ToolTip": "C:\\02 - ProjetosDif\\API\\ColecionaatorAPI\\TesteMenu\\TesteMenu\\Default.aspx",
-              "RelativeToolTip": "TesteMenu\\Default.aspx",
+              "DocumentIndex": 0,
+              "Title": "TipoFranquiado.aspx",
+              "DocumentMoniker": "C:\\01 - Projetos\\Git\\TesteMenu\\UnificarMenuDinamicoEApi\\TipoFranquiado.aspx",
+              "RelativeDocumentMoniker": "UnificarMenuDinamicoEApi\\TipoFranquiado.aspx",
+              "ToolTip": "C:\\01 - Projetos\\Git\\TesteMenu\\UnificarMenuDinamicoEApi\\TipoFranquiado.aspx",
+              "RelativeToolTip": "UnificarMenuDinamicoEApi\\TipoFranquiado.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-08T00:31:34.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Site.Master.cs",
-              "DocumentMoniker": "C:\\02 - ProjetosDif\\API\\ColecionaatorAPI\\TesteMenu\\TesteMenu\\Site.Master.cs",
-              "RelativeDocumentMoniker": "TesteMenu\\Site.Master.cs",
-              "ToolTip": "C:\\02 - ProjetosDif\\API\\ColecionaatorAPI\\TesteMenu\\TesteMenu\\Site.Master.cs",
-              "RelativeToolTip": "TesteMenu\\Site.Master.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAALIAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T00:16:16.896Z",
+              "WhenOpened": "2025-06-08T03:05:08.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Site.Master",
-              "DocumentMoniker": "C:\\02 - ProjetosDif\\API\\ColecionaatorAPI\\TesteMenu\\TesteMenu\\Site.Master",
-              "RelativeDocumentMoniker": "TesteMenu\\Site.Master",
-              "ToolTip": "C:\\02 - ProjetosDif\\API\\ColecionaatorAPI\\TesteMenu\\TesteMenu\\Site.Master",
-              "RelativeToolTip": "TesteMenu\\Site.Master",
+              "Title": "TipoFranquia.aspx",
+              "DocumentMoniker": "C:\\01 - Projetos\\Git\\TesteMenu\\UnificarMenuDinamicoEApi\\TipoFranquia.aspx",
+              "RelativeDocumentMoniker": "UnificarMenuDinamicoEApi\\TipoFranquia.aspx",
+              "ToolTip": "C:\\01 - Projetos\\Git\\TesteMenu\\UnificarMenuDinamicoEApi\\TipoFranquia.aspx",
+              "RelativeToolTip": "UnificarMenuDinamicoEApi\\TipoFranquia.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-06-08T00:14:26.831Z"
+              "WhenOpened": "2025-06-08T03:04:40.493Z",
+              "EditorCaption": ""
             }
           ]
         }
